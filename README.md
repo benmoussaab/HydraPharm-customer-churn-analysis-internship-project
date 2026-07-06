@@ -101,17 +101,6 @@ The Streamlit interface allows users to:
 
 ---
 
-## Business Insights
-
-The platform identifies:
-
-- Customers likely to churn
-- High-risk customer segments
-- Spending behavior trends
-- Customer purchase patterns
-- Key churn drivers
-
----
 
 # Project Results
 
@@ -134,8 +123,6 @@ Using one year of customer transactional data, the final model achieved:
 - XGBoost
 - Streamlit
 - Matplotlib
-- Seaborn
-- OpenPyXL
 
 ---
 
