@@ -1,0 +1,14 @@
+
+
+Top 10 important features for XGBoost:
+         Feature  Importance
+   invoice_count    0.245468
+  total_quantity    0.194924
+ avg_invoices_2m    0.104456
+total_quantity_p    0.091320
+     total_spend    0.070317
+ std_invoices_3m    0.042944
+ std_invoices_6m    0.037355
+ avg_invoices_4m    0.030681
+ std_invoices_4m    0.029681
+ avg_invoices_3m    0.027255
