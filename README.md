@@ -1,3 +1,6 @@
+![HydraPharm-churn-prediction-internship-project](picture.PNG)
+
+
 # Customer Churn Analytics Platform
 
 An end-to-end customer churn analytics platform built using **Python**, **LightGBM**, **XGBoost**, and **Streamlit**. The application transforms raw customer transaction data into actionable business insights and predicts customers at risk of churn.
